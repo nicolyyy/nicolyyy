@@ -4,7 +4,7 @@
 
 <h1 align="center">Olá, me chamo Nicoly Menezes :grin:</h1>
 <h4 align="center">Sou estudante de Engenharia da Computação na Universidade Federal do Pará,
-  apaixonada por tecnologia, anime(secretamente), jogos e filmes extremamente ruins.  </h4>
+  apaixonada por tecnologia e aspirante a Desenvolvedora Front-end.</h4>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nicolyyy&show_icons=true" alt="nicolyyy" /> </p>
  
