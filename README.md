@@ -1,10 +1,6 @@
-<p align="center">
-<img  src="https://i.postimg.cc/KF84hbsM/octocat-2.png" width="600" height="auto" align="center"  >
-</p>
-
-<h1 align="center">Olá, me chamo Nicoly Menezes :grin:</h1>
+<h2 align="center">Olá, me chamo Nicoly Menezes 👋</h2>
 <h4 align="center">Sou estudante de Engenharia da Computação na Universidade Federal do Pará,
-  apaixonada por tecnologia e aspirante a Desenvolvedora Front-end.</h4>
+  apaixonada por tecnologia e aspirante a Desenvolvedora Front-end. :woman: :computer:</h4>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nicolyyy&show_icons=true" alt="nicolyyy" /> </p>
  
