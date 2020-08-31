@@ -1,6 +1,6 @@
 ## Olá, me chamo Nicoly Menezes :wave:
 
- Sou apaixonada por tecnologia, inovação e tudo o que seja capaz de impactar positivamente as vidas milhares de pessoas. :woman: :computer:
+ Sou apaixonada por tecnologia, inovação e tudo o que seja capaz de impactar positivamente a vida de milhares de pessoas. . :woman: :computer:
 
 - :seedling: Atualmente estou estudando: JavaScript, CSS3 e Bootstrap.
 - :books: Cursando bacharelado em Engenharia da Computação na Universidade Federal do Pará.
