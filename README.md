@@ -3,7 +3,7 @@
  Sou apaixonada por tecnologia, inovação e tudo o que seja capaz de impactar positivamente a vida de milhares de pessoas.  :woman: :computer:
 
 - :seedling: Atualmente estou estudando: Typescript, React e Boas práticas em acessibilidade.
-- :books: Cursando bacharelado em Engenharia da Computação na Universidade Federal do Pará.
+- :books: Graduada em Engenharia da Computação na Universidade Federal do Pará.
 
 ### Acesse minhas redes sociais:
 
